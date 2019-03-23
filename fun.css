@@ -10,10 +10,10 @@
 
 @keyframes jump {
     from {
-        height: 0;
+        top: 0;
     }
     to {
-        height: 100px;
+        top: 100px;
     }
 }
 
